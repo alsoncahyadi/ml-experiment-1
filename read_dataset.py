@@ -7,7 +7,7 @@ Created on Mon Oct 30 13:14:50 2017
 
 import pandas as pd
 
-path = "DatasetEksperimen\CencusIncome\CencusIncome.data.txt"
+path = "Dataset\CencusIncome.data.txt"
 
 df = pd.read_csv(path)
 
